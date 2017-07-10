@@ -37,8 +37,8 @@
 	</dependencies>
 	<scm>
 		<url>https://github.com/SrinivasAlla/myweb</url>
-		<connection>scm:git:git://github.com/SrinivasAlla/myweb.git</connection>
-		<developerConnection>scm:git:git//github.com/SrinivasAlla/myweb.git</developerConnection>
+		<connection>scm:git:https://github.com/SrinivasAlla/myweb.git</connection>
+		<developerConnection>scm:git:https://github.com/SrinivasAlla/myweb.git</developerConnection>
 	</scm>
 	<distributionManagement>
 		<repository>
